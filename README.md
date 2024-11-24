@@ -48,5 +48,7 @@ Conclusion:
 Our tool automates legal document preparation, making it faster, cheaper, and more accessible for lawyers and customers in India. It leverages advanced technologies like AI, machine learning, and natural language processing to generate customized legal documents based on user input. The tool can revolutionize the legal document preparation process in India by reducing the time and cost associated with it.
 
 
-![Front Page](images/Screenshot%202024-11-24%20163714.png)
+
+![Front Page](images/Screenshot%202024-11-24%20164014.png)
+![Second Page](images/Screenshot%202024-11-24%20163714.png)
 
